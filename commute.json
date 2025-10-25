@@ -1,3 +1,4 @@
 {
-    "enableWallet": false
+    "enableWallet": false,
+    "enableReferAndEarn": false
 }
