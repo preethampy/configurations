@@ -1,0 +1,16 @@
+{
+  "razorpayPlans": [
+    {
+      "name": "starter",
+      "id": "plan_RzrHLennIczVZi"
+    },
+    {
+      "name": "growth",
+      "id": "plan_RzrHw58WHHvL9s"
+    },
+    {
+      "name": "enterprise",
+      "id": "plan_RzrJiOMDi0MWrS"
+    }
+  ]
+}
