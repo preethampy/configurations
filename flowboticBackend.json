@@ -2,14 +2,32 @@
   "razorpayPlans": [
     {
       "name": "starter",
+      "cycle":"monthly",
       "id": "plan_RzrHLennIczVZi"
     },
     {
       "name": "growth",
+      "cycle":"monthly",
       "id": "plan_RzrHw58WHHvL9s"
     },
     {
       "name": "enterprise",
+      "cycle":"monthly",
+      "id": "plan_RzrJiOMDi0MWrS"
+    },
+    {
+      "name": "starter",
+      "cycle":"yearly",
+      "id": "plan_RzrHLennIczVZi"
+    },
+    {
+      "name": "growth",
+      "cycle":"yearly",
+      "id": "plan_RzrHw58WHHvL9s"
+    },
+    {
+      "name": "enterprise",
+      "cycle":"yearly",
       "id": "plan_RzrJiOMDi0MWrS"
     }
   ]
