@@ -1,6 +1,5 @@
 {
   "razorpayPlans": [
-    { "name": "starter", "cycle": "monthly", "id": "plan_RzrHLennIczVZi" },
     {
       "name": "growth",
       "cycle":"monthly",
